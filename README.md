@@ -7,3 +7,4 @@ My name is Hamudi. I'm a computer science graduate student at Technical Universi
   * Autonomous Driving
   * Computer Vision
   * Ethereum Smart Contracts
+  * iOS Development
