@@ -5,6 +5,6 @@ My name is Hamudi. I'm a computer science graduate student at Technical Universi
 - 💬 Feel free to ask me anything about:
 
   * Autonomous Driving
-  * Computer Vision
+  * Computer Vision (AR/VR/SLAM)
   * Ethereum Smart Contracts
   * iOS Development
