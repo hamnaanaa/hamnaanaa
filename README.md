@@ -14,3 +14,5 @@ My research and development interests are all about finding ways to integrate st
     * iOS Development
     
   * Ethereum Smart Contracts
+
+🔗 Check out my [LinkedIn](https://www.linkedin.com/in/hamnaanaa/) if you want to learn more about me or reach out to me!
