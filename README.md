@@ -10,7 +10,7 @@ My research and development interests are all about finding ways to integrate st
     * Computer Vision (AR/VR/SLAM)
     * Autonomous Driving
     
-  * Scalable Software Engineering, especially in context of:
+  * Scalable Software Engineering, especially in the context of:
     * iOS Development
     
   * Ethereum Smart Contracts
