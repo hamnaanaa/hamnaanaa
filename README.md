@@ -15,4 +15,4 @@ My research and development interests are all about finding ways to integrate st
     
   * Ethereum Smart Contracts
 
-🔗 Check out my [LinkedIn](https://www.linkedin.com/in/hamnaanaa/) if you want to learn more about me or reach out to me!
+🔗 Check out my [LinkedIn](https://www.linkedin.com/in/hamnaanaa/) <a href="https://www.linkedin.com/in/hamnaanaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamnaanaa/" height="30" width="40" /></a> if you want to learn more about me or reach out to me!
