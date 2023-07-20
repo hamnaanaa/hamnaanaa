@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is Hamudi. I'm a computer science graduate student at Technical University of Munich (TUM), Germany. 
+My name is Hamudi. I'm an AI researcher and computer science graduate student at Technical University of Munich (TUM), Germany. 
 
-My research and development interests are all about finding ways to integrate state-of-the-art Machine Learning solutions into applied software engineering to make Machine Learning useful in solving real-world challenges.
+My research and development interests are all about finding ways to integrate state-of-the-art Artificial Intelligence solutions into applied software engineering to solve exciting real-world challenges.
 
 💬 Feel free to ask me anything about:
 
   * Machine Learning R&D and its application in:
+    * Generative AI (LLMs and Diffusion models)
     * Computer Vision (AR/VR/SLAM)
     * Autonomous Driving
     
